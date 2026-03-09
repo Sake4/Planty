@@ -1,0 +1,20 @@
+# Environnement virtuel
+.venv/
+
+# Dossiers de travail (images, résultats)
+uploads/
+results/
+watch_folder/
+processed/
+error_images/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables d'environnement
+.env
+
+# VSCode
+.vscode/
